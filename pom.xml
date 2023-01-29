@@ -2,8 +2,8 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>org.trovaz</groupId>
-	<artifactId>outlook-driver</artifactId>
+	<groupId>a.service</groupId>
+	<artifactId>leaderboard</artifactId>
 	<version>0.0.2</version>
 	<packaging>jar</packaging>
 
@@ -86,11 +86,6 @@
 					<descriptorRefs>
 						<descriptorRef>jar-with-dependencies</descriptorRef>
 					</descriptorRefs>
-
-					<!-- <resources> <resource> <directory>${basedir}/src/main/java/com/test/customize</directory> 
-						<filtering>false</filtering> </resource> <resource> <directory>${basedir}/src/main/java/com/test/resources</directory> 
-						<filtering>false</filtering> </resource> <resource> <directory>${basedir}/src/main/java/com/test/xml</directory> 
-						<filtering>false</filtering> </resource> </resources> -->
 				</configuration>
 			</plugin>
 			<plugin>

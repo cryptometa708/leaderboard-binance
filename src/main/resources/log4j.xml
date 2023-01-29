@@ -20,7 +20,7 @@
 	</appender>
 
 	<!-- Application Loggers -->
-	<logger name="org.trovaz">
+	<logger name="a.service.now">
 		<level value="info" />
 	</logger>
 
